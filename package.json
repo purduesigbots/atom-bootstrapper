@@ -1,0 +1,33 @@
+{
+  "name": "pros-bootstrapper",
+  "main": "./pros-bootstrapper",
+  "version": "1.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/pros-bootstrapper",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-deps": "^4.6.0"
+  },
+  "package-deps": [
+    "build",
+    "busy",
+    "busy-signal",
+    "file-icons",
+    "intentions",
+    "linter",
+    "linter-ui-default",
+    "tool-bar",
+    "tool-bar-main",
+    "pros",
+    "minimap",
+    "minimap-cursorline",
+    "minimap-find-and-replace",
+    "minimap-linter",
+    "minimap-selection"
+  ]
+}
