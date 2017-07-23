@@ -27,6 +27,7 @@
     "minimap-cursorline",
     "minimap-find-and-replace",
     "minimap-linter",
-    "minimap-selection"
+    "minimap-selection",
+    "platformio-ide-terminal"
   ]
 }
