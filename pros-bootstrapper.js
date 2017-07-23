@@ -1,6 +1,6 @@
 'use babel';
 
-import packageDeps from 'atom-package-deps';
+const packageDeps = require('atom-package-deps');
 
 export default {
   activate(state) {
