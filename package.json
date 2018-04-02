@@ -1,33 +1,31 @@
 {
-  "name": "pros-bootstrapper",
+  "name": "pros-bootstrapper-beta",
   "main": "./pros-bootstrapper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Bootstrap package dependencies for PROS package",
   "keywords": [],
   "repository": "https://github.com/purduesigbots/atom-bootstrapper",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.19.0 <2.0.0"
   },
   "dependencies": {
     "atom-package-deps": "^4.6.0"
   },
   "package-deps": [
+    "atom-ide-ui",
     "build",
     "busy",
     "busy-signal",
     "file-icons",
-    "intentions",
-    "linter",
-    "linter-ui-default",
-    "tool-bar",
-    "tool-bar-main",
+    "ide-cquery",
     "pros",
     "minimap",
     "minimap-cursorline",
     "minimap-find-and-replace",
-    "minimap-linter",
     "minimap-selection",
-    "platformio-ide-terminal"
+    "terminal-tab",
+    "tool-bar",
+    "tool-bar-main"
   ]
 }
