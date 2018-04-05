@@ -1,5 +1,5 @@
 {
-  "name": "pros-bootstrapper-beta",
+  "name": "pros-bootstrapper",
   "main": "./pros-bootstrapper",
   "version": "1.0.4",
   "description": "Bootstrap package dependencies for PROS package",
