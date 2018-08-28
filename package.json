@@ -14,7 +14,6 @@
   },
   "package-deps": [
     "atom-ide-ui",
-    "build",
     "busy",
     "busy-signal",
     "file-icons",
@@ -24,7 +23,7 @@
     "minimap-cursorline",
     "minimap-find-and-replace",
     "minimap-selection",
-    "terminal-tab",
+    "terminal-tab-plus",
     "tool-bar",
     "tool-bar-main"
   ]
