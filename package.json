@@ -1,7 +1,7 @@
 {
   "name": "pros-bootstrapper",
   "main": "./pros-bootstrapper",
-  "version": "0.0.11",
+  "version": "2.0.0",
   "description": "Bootstrap package dependencies for PROS package",
   "keywords": [],
   "repository": "https://github.com/purduesigbots/atom-bootstrapper",
